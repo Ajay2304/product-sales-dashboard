@@ -32,7 +32,8 @@ Full-Stack Intern Assignment
    cd backend
    npm install
    npm run dev
-3. FrontendBash
+3. Frontend
+   ```Bash
     cd frontend
     npm install
     npm start
